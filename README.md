@@ -1,6 +1,6 @@
 # Hi, I'm Saqib Amin 👋
 
-Senior .NET Developer | Backend Engineer
+Senior .NET Engineer • Architecture • SaaS • Open Source
 
 I build scalable backend systems and SaaS applications using ASP.NET Core, SQL Server, Redis, and Azure.
 
