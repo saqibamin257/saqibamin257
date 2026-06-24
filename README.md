@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saqib Amin</h1>
 
 <h3 align="center">
-Senior .NET Developer | Full Stack Engineer | Building Scalable Software & SaaS Products
+Senior Full Stack .NET Engineer | Building Scalable Software & SaaS Products
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&lines=Senior+.NET+Developer;Full+Stack+Engineer;ASP.NET+Core+%7C+React+%7C+TypeScript;Software+Architecture+and+Distributed+Systems;Building+Scalable+Software;Open+Source+Contributor" />
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&lines=Senior+Full+Stack+.NET+Engineer;ASP.NET+Core+%7C+React+%7C+TypeScript;Software+Architecture+and+Distributed+Systems;Building+Scalable+Software;Open+Source+Contributor" />
   </a>
 </p>
 
@@ -18,11 +18,11 @@ Senior .NET Developer | Full Stack Engineer | Building Scalable Software & SaaS 
 
 ## 🚀 About Me
 
-I'm a Senior .NET Developer and Full Stack Engineer with 13+ years of experience building scalable backend systems, SaaS products, and enterprise applications.
+I'm a Senior Full Stack .NET Engineer passionate about building scalable software, SaaS products, and distributed systems.
 
-I specialize in designing clean, maintainable, and high-performance solutions using ASP.NET Core, React, TypeScript, SQL Server, Redis, and Azure.
+I specialize in designing clean, maintainable, and high-performance applications using ASP.NET Core, React, TypeScript, SQL Server, Redis, and Azure.
 
-I'm currently focused on:
+Currently focused on:
 
 - Open Source Contributions
 - Distributed Systems
@@ -30,7 +30,6 @@ I'm currently focused on:
 - OpenTelemetry & Observability
 - .NET Aspire
 - Building Production-Grade SaaS Applications
-
 ---
 
 ## 🛠 Tech Stack
@@ -103,29 +102,6 @@ Building in public and contributing to the .NET ecosystem.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=saqibamin257&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibamin257&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=saqibamin257&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🎯 2026 Mission
 
@@ -149,4 +125,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibamin257
 
 ---
 
-⭐ Building scalable software and contributing to the .NET ecosystem.
+⭐ Building scalable software, sharing knowledge, and contributing to the .NET ecosystem.
