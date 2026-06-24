@@ -1,6 +1,6 @@
 # Hi, I'm Saqib Amin 👋
 
-Senior .NET Engineer • Architecture • SaaS • Open Source
+Senior .NET Full Stack Engineer • Architecture • SaaS • Open Source
 
 I build scalable backend systems and SaaS applications using ASP.NET Core, SQL Server, Redis, and Azure.
 
@@ -12,6 +12,13 @@ I build scalable backend systems and SaaS applications using ASP.NET Core, SQL S
 - Entity Framework Core
 - Dapper
 - SQL Server
+
+### Frontend
+- React
+- TypeScript
+- Next.js
+- React Query
+- React Hook Form
 
 ### Architecture
 - Clean Architecture
