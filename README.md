@@ -113,13 +113,7 @@ Building in public and contributing to the .NET ecosystem.
 
 ---
 
-## 🤝 Connect With Me
 
-<p align="left">
-
-
-
-</p>
 
 ---
 
