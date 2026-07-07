@@ -117,9 +117,7 @@ Building in public and contributing to the .NET ecosystem.
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/saqibamin257">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+
 
 </p>
 
